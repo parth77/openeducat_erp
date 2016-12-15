@@ -51,6 +51,11 @@
         'demo/admission_demo.xml',
         'demo/student_fees_details_demo.xml',
     ],
+    'test': [
+         'test/res_users_creation.yml',
+         'test/batch_course_fees.yml',
+         'test/admission_register_creation.yml',
+     ],
     'images': [
         'static/description/openeducat_admission_banner.jpg',
     ],

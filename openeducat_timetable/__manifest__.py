@@ -53,6 +53,10 @@
         'demo/timing_demo.xml',
         'demo/op_timetable_demo.xml'
     ],
+    'test': [
+         'test/timetable_sub_value.yml',
+         'test/generate_timetable.yml'
+     ],
     'images': [
         'static/description/openeducat_timetable_banner.jpg',
     ],

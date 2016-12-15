@@ -64,7 +64,7 @@
         'dashboard/faculty_dashboard_view.xml',
         'menu/openeducat_core_menu.xml',
         'menu/faculty_menu.xml',
-        'menu/student_menu.xml'
+        'menu/student_menu.xml',
     ],
     'demo': [
         'demo/base_demo.xml',
@@ -78,6 +78,10 @@
         'demo/student_course_demo.xml',
         'demo/faculty_demo.xml',
     ],
+    'test': [
+         'test/res_users_test.yml',
+         'test/faculty_emp_user_creation.yml',
+     ],
     'css': ['static/src/css/base.css'],
     'qweb': [
         'static/src/xml/base.xml'],
